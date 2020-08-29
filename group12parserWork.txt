@@ -1,0 +1,46 @@
+
+SubmitIt this file with the executable.
+
+Group#:12
+
+Must have divided the work as specified.
+1.State who did what by indicating: 
+  Member A tasks (syntax error functions) - who:Denice Hickethier
+  Member B tasks (match and next_token)- who:Ivan Inandan
+  Member C tasks (main()) who:Denice Hickethier
+  Who wrote which parser functions? 
+Denice Hickethier
+void story();
+void s();
+void after_subject();
+
+Denice Hickethier
+void after_noun();
+void after_Object();
+void noun();
+
+Ivan Inandan
+void verb();
+void be();
+void tense();
+
+If the member did not fully contribute to the assigned part, do not list his/her name!!!!!
+
+2.  Each person came to the meeting?
+    Yes
+3.  You have included all the required comments? 
+   (Grammer rules and Programmer names)
+    Yes
+4.  The parser produced correct output for 
+    all 6 test cases?
+    No, there are some issues I think may be with the scanner. The functions work properly
+    but some table token types may be out of order. One of us will make an appointment 
+    with you to straighten out our program.
+5.  What extra credit feature did you include?
+    If it is error correction, did you make sure errors.txt
+    got produced?
+    They output but are not written to an errors.txt
+    [ You may still do EC later ]
+        
+     
+
